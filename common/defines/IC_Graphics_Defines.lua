@@ -1,10 +1,10 @@
 NDefines_Graphics.NGraphics.VICTORY_POINT_MAP_ICON_AFTER = {0, 10} -- After this amount of VP the map icon becomes bigger dot.
-NDefines_Graphics.NFrontend.CAMERA_MAX_HEIGHT = 4000.0
-NDefines_Graphics.NFrontend.CAMERA_MIN_HEIGHT = 30.0
+NDefines_Graphics.NFrontend.CAMERA_MAX_HEIGHT = 4000.0 -- maximum possible height for camera
+NDefines_Graphics.NFrontend.CAMERA_MIN_HEIGHT = 30.0 -- minimum possible height for camer
 NDefines_Graphics.NMapIcons.STATES_PRIORITY_VICTORY_POINTS = 4
-NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_LOW = 4.0 -- thickness in pixels -- 5
+NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_LOW = 6.0 -- thickness in pixels -- formerly 5, then formerly 4.0 --- border thickness at low
 NDefines_Graphics.NGraphics.GRADIENT_BORDERS_COUNTRY_CENTER_THICKNESS = 1.0 -- The center gradient is linear 1/255 per pixel for this many pixels
-NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_HIGH = 14.0
+NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_HIGH = 16.0 -- --14.0 country border thickness at high graphics
 NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_STATE = 45.0 --11
 NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_SUPPLY_AREA_A = 2.0 --2
 NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_SUPPLY_AREA_B = 15.0 --20
