@@ -3,5 +3,5 @@ tags={
 	"Graphics"
 	"Map"
 }
-path="C:/Users/Anthony/Documents/Paradox Interactive/Hearts of Iron IV/mod/arcadegithub"
+path="mod/arcadegithub"
 supported_version="1.5.4"
